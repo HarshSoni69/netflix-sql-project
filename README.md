@@ -15,4 +15,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## Dataset 
 The data for this project is sourced from the Kaggle dataset:
-<ul><li>Dataset Link: [Netflix DataSet](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)</li></ul>
+<ul>
+  <li>Dataset Link: <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download">Netflix DataSet</a></li>
+</ul>
+
